@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: MIT
-    Student Coin is the first crypto platform that allows users to easily design, create, and manage personal, start-up, NFT, and DeFi tokens.
-    The STC Token is an updated contract for 0xb8B7791b1A445FB1e202683a0a329504772e0E52
+    Smart Marketing Token is a STC-based project developed to create the marketing agency of the future.
+    Check more details about $SMT at smartmarketingtoken.com/
 */
 
 pragma solidity ^0.8.0;
